@@ -22,6 +22,7 @@
 ## Category 1: Version Mismatch Issues
 
 ### 🔴 linkerd-patterns (-9.1% when used)
+**Links**: [📄 View Skill](skills/linkerd-patterns/SKILL.md) | [📋 View Task](tasks/linkerd-patterns.md)
 
 **Problem Identified by Paper**:
 > "version-mismatched guidance conflicting with project context" (Section 4.3, Finding 4)
@@ -86,6 +87,7 @@ Concept bleed: Template's NetworkPolicy pollutes solution
 ---
 
 ### 🔴 springboot-tdd (-10% when used)
+**Links**: [📄 View Skill](skills/springboot-tdd/SKILL.md) | [📋 View Task](tasks/springboot-tdd.md)
 
 **Problem Identified by Paper**:
 > "version-specific conventions conflict with the target project's framework" (Section 4.3, Finding 4)
@@ -142,6 +144,7 @@ Spring Boot 3.x introduced breaking changes:
 ---
 
 ### 🟠 github-actions-templates (70% baseline)
+**Links**: [📄 View Skill](skills/github-actions-templates/SKILL.md) | [📋 View Task](tasks/github-actions-templates.md)
 
 **Problem Identified by Paper**:
 - Baseline 70% suggests templates don't cover all cases
@@ -187,6 +190,7 @@ Spring Boot 3.x introduced breaking changes:
 ## Category 2: Scope Mismatch Issues
 
 ### 🔴 django-patterns (-9.1% when used)
+**Links**: [📄 View Skill](skills/django-patterns/SKILL.md) | [📋 View Task](tasks/django-patterns.md)
 
 **Problem Identified by Paper**:
 > "The mismatch between the holistic scope of a skill and the focused requirements of individual tasks... the surplus context can interfere with the agent's reasoning in several ways." (Section 4.3, Finding 4)
@@ -246,6 +250,7 @@ Spring Boot 3.x introduced breaking changes:
 ## Category 3: Verbosity/Overhead Issues
 
 ### 🟡 service-mesh-observability (+450.8% overhead, 0% improvement)
+**Links**: [📄 View Skill](skills/service-mesh-observability/SKILL.md) | [📋 View Task](tasks/service-mesh-observability.md)
 
 **Problem Identified by Paper**:
 > "Token overhead is decoupled from performance gains... skills reshape the agent's reasoning path without necessarily improving outcomes." (Section 4.3, Finding 2)
@@ -295,6 +300,7 @@ Spring Boot 3.x introduced breaking changes:
 ---
 
 ### 🟡 python-background-jobs (+236.8% overhead, 0% improvement)
+**Links**: [📄 View Skill](skills/python-background-jobs/SKILL.md) | [📋 View Task](tasks/python-background-jobs.md)
 
 **Problem**: Same as service-mesh-observability
 - 100% pass rate without skill
@@ -333,6 +339,7 @@ Spring Boot 3.x introduced breaking changes:
 ## Category 4: Skill Improvement (Adding Concreteness)
 
 ### 🟢 creating-financial-models (90% baseline, potential +5-10%)
+**Links**: [📄 View Skill](skills/creating-financial-models/SKILL.md) | [📋 View Task](tasks/creating-financial-models.md)
 
 **Problem Identified by Paper**:
 - 90% baseline (good, but not perfect)
@@ -376,6 +383,7 @@ For each: Input → Calculation → Output + Example with real numbers
 ---
 
 ### 🟢 security-review (92.3% baseline, potential +5-10%)
+**Links**: [📄 View Skill](skills/security-review/SKILL.md) | [📋 View Task](tasks/security-review.md)
 
 **Problem**:
 - 92.3% baseline (good)
@@ -423,6 +431,7 @@ cursor.execute("SELECT * FROM users WHERE id = %s", (user_id,))
 ## Category 5: Known Limitations (Low Confidence Recommendations)
 
 ### bash-defensive-patterns (90.9% baseline)
+**Links**: [📄 View Skill](skills/bash-defensive-patterns/SKILL.md) | [📋 View Task](tasks/bash-defensive-patterns.md)
 
 **What We Know**:
 - 90.9% baseline (good)
