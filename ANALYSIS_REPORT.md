@@ -388,7 +388,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### fix
-- **Links**: [📄 View Skill](skills/fix/SKILL.md) | [📋 View Task](tasks/fix.md) | [🔗 GitHub](https://github.com/michaelasper/upgradle)
+- **Links**: [📄 View Skill](skills/fix/SKILL.md) | [📋 View Task](tasks/fix.md) | [🔗 GitHub](https://github.com/michaelasper/upgradle/tree/5f292188e9b427a96d3573b29e5677e4cdce58ea) @ `5f292188`
 - **Category**: Developer Tools (Zero Improvement - Imperfect)
 - **Pass Rate**: 91.7% (both conditions)
 - **Token Overhead**: +153.0%
