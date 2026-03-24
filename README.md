@@ -139,7 +139,6 @@ Edit `.env` with your API credentials:
 ANTHROPIC_AUTH_TOKEN=your-anthropic-api-key
 
 # If using a third-party proxy, set the proxy URL here; leave empty for direct API access
-ANTHROPIC_BASE_URL=
 ```
 
 #### Step 2: Configure the model
