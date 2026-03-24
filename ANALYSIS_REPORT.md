@@ -257,6 +257,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ### Alphabetical Skill Breakdown
 
 #### add-admin-api-endpoint
+- **Links**: [📄 View Skill](skills/add-admin-api-endpoint/SKILL.md) | [📋 View Task](tasks/add-admin-api-endpoint.md)
 - **Category**: API Development (Zero Improvement)
 - **Pass Rate**: 84.0% (both with/without skill)
 - **Token Overhead**: +4.4% (minimal)
@@ -266,6 +267,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### add-malli-schemas
+- **Links**: [📄 View Skill](skills/add-malli-schemas/SKILL.md) | [📋 View Task](tasks/add-malli-schemas.md)
 - **Category**: API Development (Zero Improvement)
 - **Pass Rate**: 90.0% (both conditions)
 - **Token Overhead**: +49.2%
@@ -275,6 +277,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### add-uint-support
+- **Links**: [📄 View Skill](skills/add-uint-support/SKILL.md) | [📋 View Task](tasks/add-uint-support.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +112.6%
@@ -284,6 +287,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### analytics-events
+- **Links**: [📄 View Skill](skills/analytics-events/SKILL.md) | [📋 View Task](tasks/analytics-events.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +104.6%
@@ -293,6 +297,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### analyze-ci
+- **Links**: [📄 View Skill](skills/analyze-ci/SKILL.md) | [📋 View Task](tasks/analyze-ci.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -10.6% ✅ **SKILL REDUCES TOKENS**
@@ -302,6 +307,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### bash-defensive-patterns
+- **Links**: [📄 View Skill](skills/bash-defensive-patterns/SKILL.md) | [📋 View Task](tasks/bash-defensive-patterns.md)
 - **Category**: Security & Testing (Zero Improvement - Imperfect)
 - **Pass Rate**: 90.9% (both conditions)
 - **Token Overhead**: +144.3%
@@ -311,6 +317,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### bazel-build-optimization
+- **Links**: [📄 View Skill](skills/bazel-build-optimization/SKILL.md) | [📋 View Task](tasks/bazel-build-optimization.md)
 - **Category**: Developer Tools (Zero Improvement - Imperfect)
 - **Pass Rate**: 90.0% (both conditions)
 - **Token Overhead**: -60.0% ✅ **SKILL REDUCES TOKENS SIGNIFICANTLY**
@@ -320,6 +327,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### changelog-automation
+- **Links**: [📄 View Skill](skills/changelog-automation/SKILL.md) | [📋 View Task](tasks/changelog-automation.md)
 - **Category**: Developer Tools (Zero Improvement - Imperfect)
 - **Pass Rate**: 70.0% (both conditions)
 - **Token Overhead**: -53.3% ✅ **SKILL REDUCES TOKENS**
@@ -329,6 +337,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### clojure-write
+- **Links**: [📄 View Skill](skills/clojure-write/SKILL.md) | [📋 View Task](tasks/clojure-write.md)
 - **Category**: Developer Tools (Zero Improvement - Imperfect)
 - **Pass Rate**: 81.8% (both conditions)
 - **Token Overhead**: -33.4% ✅ **SKILL REDUCES TOKENS**
@@ -338,6 +347,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### creating-financial-models
+- **Links**: [📄 View Skill](skills/creating-financial-models/SKILL.md) | [📋 View Task](tasks/creating-financial-models.md)
 - **Category**: Data Science & ML (Zero Improvement - Imperfect)
 - **Pass Rate**: 90.0% (both conditions)
 - **Token Overhead**: +0.7% (negligible)
@@ -347,6 +357,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### dbt-transformation-patterns
+- **Links**: [📄 View Skill](skills/dbt-transformation-patterns/SKILL.md) | [📋 View Task](tasks/dbt-transformation-patterns.md)
 - **Category**: Data Science & ML (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +103.2%
@@ -356,6 +367,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### distributed-tracing
+- **Links**: [📄 View Skill](skills/distributed-tracing/SKILL.md) | [📋 View Task](tasks/distributed-tracing.md)
 - **Category**: Analytics & Monitoring (Positive Impact ✅)
 - **Pass Rate**: +7.7% (92.3% → 100%)
 - **Token Overhead**: -30.4% ✅ **SKILL REDUCES TOKENS**
@@ -365,6 +377,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### django-patterns
+- **Links**: [📄 View Skill](skills/django-patterns/SKILL.md) | [📋 View Task](tasks/django-patterns.md)
 - **Category**: API Development (Negative Impact ❌)
 - **Pass Rate**: -9.1% (90.9% → 81.8%)
 - **Token Overhead**: +4.2%
@@ -375,6 +388,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### fix
+- **Links**: [📄 View Skill](skills/fix/SKILL.md) | [📋 View Task](tasks/fix.md)
 - **Category**: Developer Tools (Zero Improvement - Imperfect)
 - **Pass Rate**: 91.7% (both conditions)
 - **Token Overhead**: +153.0%
@@ -384,6 +398,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### github-actions-templates
+- **Links**: [📄 View Skill](skills/github-actions-templates/SKILL.md) | [📋 View Task](tasks/github-actions-templates.md)
 - **Category**: Deployment & DevOps (Zero Improvement - Imperfect)
 - **Pass Rate**: 70.0% (both conditions)
 - **Token Overhead**: +39.1%
@@ -393,6 +408,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### gitops-workflow
+- **Links**: [📄 View Skill](skills/gitops-workflow/SKILL.md) | [📋 View Task](tasks/gitops-workflow.md)
 - **Category**: Deployment & DevOps (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +127.1%
@@ -402,6 +418,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### gitlab-ci-patterns
+- **Links**: [📄 View Skill](skills/gitlab-ci-patterns/SKILL.md) | [📋 View Task](tasks/gitlab-ci-patterns.md)
 - **Category**: Deployment & DevOps (Positive Impact ✅)
 - **Pass Rate**: +14.3% (64.3% → 78.6%)
 - **Token Overhead**: +58.6%
@@ -412,6 +429,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### grafana-dashboards
+- **Links**: [📄 View Skill](skills/grafana-dashboards/SKILL.md) | [📋 View Task](tasks/grafana-dashboards.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +29.3%
@@ -421,6 +439,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### implementing-agent-modes
+- **Links**: [📄 View Skill](skills/implementing-agent-modes/SKILL.md) | [📋 View Task](tasks/implementing-agent-modes.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -47.8% ✅ **SKILL SIGNIFICANTLY REDUCES TOKENS**
@@ -430,6 +449,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### implementing-jsc-classes-zig
+- **Links**: [📄 View Skill](skills/implementing-jsc-classes-zig/SKILL.md) | [📋 View Task](tasks/implementing-jsc-classes-zig.md)
 - **Category**: Developer Tools (Zero Improvement - Imperfect)
 - **Pass Rate**: 90.0% (both conditions)
 - **Token Overhead**: +22.0%
@@ -439,6 +459,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### istio-traffic-management
+- **Links**: [📄 View Skill](skills/istio-traffic-management/SKILL.md) | [📋 View Task](tasks/istio-traffic-management.md)
 - **Category**: Deployment & DevOps (Positive Impact ✅)
 - **Pass Rate**: +7.1% (92.9% → 100%)
 - **Token Overhead**: -22.0% ✅ **SKILL REDUCES TOKENS**
@@ -448,6 +469,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### k8s-manifest-generator
+- **Links**: [📄 View Skill](skills/k8s-manifest-generator/SKILL.md) | [📋 View Task](tasks/k8s-manifest-generator.md)
 - **Category**: Deployment & DevOps (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +91.2%
@@ -457,6 +479,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### langsmith-fetch
+- **Links**: [📄 View Skill](skills/langsmith-fetch/SKILL.md) | [📋 View Task](tasks/langsmith-fetch.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +5.9% (minimal)
@@ -466,6 +489,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### linkerd-patterns
+- **Links**: [📄 View Skill](skills/linkerd-patterns/SKILL.md) | [📋 View Task](tasks/linkerd-patterns.md)
 - **Category**: Deployment & DevOps (Negative Impact ❌)
 - **Pass Rate**: -9.1% (100% → 90.9%)
 - **Token Overhead**: +50.3%
@@ -476,6 +500,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### llm-evaluation
+- **Links**: [📄 View Skill](skills/llm-evaluation/SKILL.md) | [📋 View Task](tasks/llm-evaluation.md)
 - **Category**: Data Science & ML (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +17.6%
@@ -485,6 +510,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### mcp-builder
+- **Links**: [📄 View Skill](skills/mcp-builder/SKILL.md) | [📋 View Task](tasks/mcp-builder.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +36.1%
@@ -494,6 +520,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### nx-workspace-patterns
+- **Links**: [📄 View Skill](skills/nx-workspace-patterns/SKILL.md) | [📋 View Task](tasks/nx-workspace-patterns.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +14.5%
@@ -503,6 +530,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### prometheus-configuration
+- **Links**: [📄 View Skill](skills/prometheus-configuration/SKILL.md) | [📋 View Task](tasks/prometheus-configuration.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -27.8% ✅ **SKILL REDUCES TOKENS**
@@ -512,6 +540,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### prompt-engineering-patterns
+- **Links**: [📄 View Skill](skills/prompt-engineering-patterns/SKILL.md) | [📋 View Task](tasks/prompt-engineering-patterns.md)
 - **Category**: LLM (Positive Impact ✅)
 - **Pass Rate**: +10.0% (90% → 100%)
 - **Token Overhead**: +46.4%
@@ -522,6 +551,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### python-anti-patterns
+- **Links**: [📄 View Skill](skills/python-anti-patterns/SKILL.md) | [📋 View Task](tasks/python-anti-patterns.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -44.1% ✅ **SKILL SIGNIFICANTLY REDUCES TOKENS**
@@ -531,6 +561,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### python-background-jobs
+- **Links**: [📄 View Skill](skills/python-background-jobs/SKILL.md) | [📋 View Task](tasks/python-background-jobs.md)
 - **Category**: Data Science & ML (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +236.8% ⚠️ **MASSIVE OVERHEAD**
@@ -540,6 +571,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### python-configuration
+- **Links**: [📄 View Skill](skills/python-configuration/SKILL.md) | [📋 View Task](tasks/python-configuration.md)
 - **Category**: Data Science & ML (Zero Improvement - Imperfect)
 - **Pass Rate**: 91.7% (both conditions)
 - **Token Overhead**: +29.7%
@@ -549,6 +581,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### python-observability
+- **Links**: [📄 View Skill](skills/python-observability/SKILL.md) | [📋 View Task](tasks/python-observability.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +157.5%
@@ -558,6 +591,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### python-packaging
+- **Links**: [📄 View Skill](skills/python-packaging/SKILL.md) | [📋 View Task](tasks/python-packaging.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +123.9%
@@ -567,6 +601,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### python-performance-optimization
+- **Links**: [📄 View Skill](skills/python-performance-optimization/SKILL.md) | [📋 View Task](tasks/python-performance-optimization.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -5.1% ✅ **SKILL SLIGHTLY REDUCES TOKENS**
@@ -576,6 +611,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### python-resilience
+- **Links**: [📄 View Skill](skills/python-resilience/SKILL.md) | [📋 View Task](tasks/python-resilience.md)
 - **Category**: Deployment & DevOps (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -77.6% ✅ **HIGHEST EFFICIENCY GAIN**
@@ -585,6 +621,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### rag-implementation
+- **Links**: [📄 View Skill](skills/rag-implementation/SKILL.md) | [📋 View Task](tasks/rag-implementation.md)
 - **Category**: Data Science & ML (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +44.5%
@@ -594,6 +631,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### risk-metrics-calculation
+- **Links**: [📄 View Skill](skills/risk-metrics-calculation/SKILL.md) | [📋 View Task](tasks/risk-metrics-calculation.md)
 - **Category**: Data Science & ML (Positive Impact ✅⭐⭐)
 - **Pass Rate**: +30.0% (70% → 100%)
 - **Token Overhead**: -34.8% ✅ **SKILL REDUCES TOKENS**
@@ -605,6 +643,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### security-review
+- **Links**: [📄 View Skill](skills/security-review/SKILL.md) | [📋 View Task](tasks/security-review.md)
 - **Category**: Security & Testing (Zero Improvement - Imperfect)
 - **Pass Rate**: 92.3% (both conditions)
 - **Token Overhead**: +0.9% (negligible)
@@ -614,6 +653,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### service-mesh-observability
+- **Links**: [📄 View Skill](skills/service-mesh-observability/SKILL.md) | [📋 View Task](tasks/service-mesh-observability.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +450.8% ⚠️⚠️⚠️ **EXTREME OVERHEAD**
@@ -623,6 +663,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### similarity-search-patterns
+- **Links**: [📄 View Skill](skills/similarity-search-patterns/SKILL.md) | [📋 View Task](tasks/similarity-search-patterns.md)
 - **Category**: Data Science & ML (Positive Impact ✅)
 - **Pass Rate**: +10.0% (90% → 100%)
 - **Token Overhead**: -32.4% ✅ **SKILL REDUCES TOKENS**
@@ -633,6 +674,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### slo-implementation
+- **Links**: [📄 View Skill](skills/slo-implementation/SKILL.md) | [📋 View Task](tasks/slo-implementation.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -40.2% ✅ **SKILL REDUCES TOKENS**
@@ -642,6 +684,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### spark-optimization
+- **Links**: [📄 View Skill](skills/spark-optimization/SKILL.md) | [📋 View Task](tasks/spark-optimization.md)
 - **Category**: Data Science & ML (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: +23.9%
@@ -651,6 +694,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### springboot-tdd
+- **Links**: [📄 View Skill](skills/springboot-tdd/SKILL.md) | [📋 View Task](tasks/springboot-tdd.md)
 - **Category**: Security & Testing (Negative Impact ❌)
 - **Pass Rate**: -10.0% (80% → 70%)
 - **Token Overhead**: -36.8% ✅ **SKILL REDUCES TOKENS**
@@ -660,6 +704,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### tdd-workflow
+- **Links**: [📄 View Skill](skills/tdd-workflow/SKILL.md) | [📋 View Task](tasks/tdd-workflow.md)
 - **Category**: Security & Testing (Positive Impact ✅)
 - **Pass Rate**: +7.1% (21.4% → 28.6%)
 - **Token Overhead**: +78.6% ⚠️
@@ -670,6 +715,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### turborepo
+- **Links**: [📄 View Skill](skills/turborepo/SKILL.md) | [📋 View Task](tasks/turborepo.md)
 - **Category**: Developer Tools (Zero Improvement - Imperfect)
 - **Pass Rate**: 50.0% (both conditions)
 - **Token Overhead**: +187.9% ⚠️
@@ -679,6 +725,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### v3-performance-optimization
+- **Links**: [📄 View Skill](skills/v3-performance-optimization/SKILL.md) | [📋 View Task](tasks/v3-performance-optimization.md)
 - **Category**: Developer Tools (Zero Improvement - Perfect Pass)
 - **Pass Rate**: 100% (both conditions)
 - **Token Overhead**: -56.4% ✅ **SKILL SIGNIFICANTLY REDUCES TOKENS**
@@ -688,6 +735,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### vector-index-tuning
+- **Links**: [📄 View Skill](skills/vector-index-tuning/SKILL.md) | [📋 View Task](tasks/vector-index-tuning.md)
 - **Category**: Data Science & ML (Zero Improvement - Imperfect)
 - **Pass Rate**: 90.0% (both conditions)
 - **Token Overhead**: +18.8%
@@ -697,6 +745,7 @@ kind: NetworkPolicy                # ❌ Conflicting resource
 ---
 
 #### xlsx
+- **Links**: [📄 View Skill](skills/xlsx/SKILL.md) | [📋 View Task](tasks/xlsx.md)
 - **Category**: Analytics & Monitoring (Zero Improvement - Imperfect)
 - **Pass Rate**: 36.4% (both conditions)
 - **Token Overhead**: -18.1%
